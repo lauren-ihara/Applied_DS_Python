@@ -1,7 +1,7 @@
 Concepts explored:
 
 1. Data preprocessing 
-2. Exploratory data analysis (EDA)
+2. Missing value imputation
 3. Feature engineering
-4. Dimensionality reduction
-5. Cluster analysis
+4. Data visualization
+5. Correlation analysis/ relationship investigation
